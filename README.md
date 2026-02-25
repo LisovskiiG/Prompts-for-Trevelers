@@ -1,5 +1,5 @@
 # Prompts-for-Trevelers
-Prompts for planning trips and travels
+Prompts for convenient trips and travel planning
 
 ![traveler_and_a_humanoid_robot2](https://github.com/user-attachments/assets/7193e326-144e-447a-9224-432f42b5cbc7)
 
